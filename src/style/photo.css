@@ -1,0 +1,8 @@
+.photo {
+    max-width: 30vw;
+    margin: 0.2em;
+}
+
+.photo.favorite {
+    background-color: yellow ;
+}
