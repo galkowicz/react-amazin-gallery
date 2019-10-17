@@ -4,3 +4,9 @@
     justify-content: center;
     flex-direction: column;
 }
+
+.order-favorites .button {
+    margin: 2em;
+    padding: 1em;
+    align-self: center;
+}
