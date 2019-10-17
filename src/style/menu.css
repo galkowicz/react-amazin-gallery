@@ -1,8 +1,8 @@
-.header.header.header {
+.menu .ui.header {
     padding-top: 2em;
 }
 
-.button.button.button.button.button {
+.menu .ui.vertical.buttons .button {
     margin: 2em;
     padding: 1em;
     align-self: center;
